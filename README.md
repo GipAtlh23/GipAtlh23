@@ -35,7 +35,7 @@ Saya **Ghiffari Atallah** as Web and Front-end Developer. Saya berfokus pada pem
 
 ## 🛠 Keahlian Inti
 
-* **Frontend:** HTML, CSS, JavaScript, Tailwind CSS
+* **Frontend:** HTML, CSS, JS, Tailwind CSS
 * **Website Features:** CRUD system, dashboard admin, role-based access, API integration
 ---
 
