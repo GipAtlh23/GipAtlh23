@@ -29,7 +29,7 @@
 
 ## 👋 Tentang Saya
 
-Saya **Ghiffari Atallah** as Web and Front-end Developer. Saya berfokus pada pembangunan solusi teknologi yang modern, bersih, dan scalable. Dengan keahlian dalam Laravel, saya mampu merancang dan membangun website yang aman, efisien, serta mudah dikembangkan. Saya mengutamakan kualitas kode, performa, dan pengalaman pengguna untuk menghasilkan sistem yang stabil dan dapat diandalkan di berbagai skala proyek.
+Saya **GipAtlh** as Web and Front-end Developer. Saya berfokus pada pembangunan solusi teknologi yang modern, bersih, dan scalable. Dengan keahlian dalam Laravel, saya mampu merancang dan membangun website yang aman, efisien, serta mudah dikembangkan. Saya mengutamakan kualitas kode, performa, dan pengalaman pengguna untuk menghasilkan sistem yang stabil dan dapat diandalkan di berbagai skala proyek.
 
 ---
 
